@@ -5,4 +5,4 @@ It includes science, general knowlegde ,music , television, sports and many more
 Features like current score, progress bar and play again option are present making the application reusable and dynamic.
 All the questions are fetched from API and are not hardcoded.
 
-<img src="quizzler/img1.jpg" width="100px" height="100px">
+<img src="quizzler/img1.jpeg" width="100" height="100">
